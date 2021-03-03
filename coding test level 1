@@ -1,0 +1,13 @@
+<두 개 뽑아서 더하기>
+
+방법 1. 중복을 허용하지 않는 set을 사용하고, 끝에 answer.assign(st.begin(), st.end());로 마무리해준다.
+방법 2. 만약 set을 안 쓰고 answer.erase(unique(answer.begin(), answer.end()), answer.end());로 중복을 없애준다.
+
+<2016년>
+
+방법: hard-coding인데, if - else if 시리즈 연발하지 않고 그냥 배열에 다 넣어주면 된다.
+
+<K번째 수>
+
+공간과 시간복잡도 사이의 평형을 찾아라.
+
