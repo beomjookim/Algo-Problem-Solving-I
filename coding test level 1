@@ -1,13 +1,20 @@
-<두 개 뽑아서 더하기>
+<나누어 떨어지는 숫자 배열>,<약수의 합>,<내적>
+too easy to comment.
 
+<두 개 뽑아서 더하기>
 방법 1. 중복을 허용하지 않는 set을 사용하고, 끝에 answer.assign(st.begin(), st.end());로 마무리해준다.
 방법 2. 만약 set을 안 쓰고 answer.erase(unique(answer.begin(), answer.end()), answer.end());로 중복을 없애준다.
 
 <2016년>
-
 방법: hard-coding인데, if - else if 시리즈 연발하지 않고 그냥 배열에 다 넣어주면 된다.
 
 <K번째 수>
-
 공간과 시간복잡도 사이의 평형을 찾아라.
 
+<이상한 문자 만들기>
+string의 성질을 잊지 말자. string s의 길이는 걍 s.length() 혹은 s.size() 사용.
+string상의 i번째 문자를 보려면 s.at(i);을 쓰면 된다.
+또한, ASCII CODE 상의 32 차이를 더하거나 빼주는 대신 string library의 toupper, tolower 사용하면 된다.
+
+<소수 찾기>
+//////////
