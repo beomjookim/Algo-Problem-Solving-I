@@ -16,5 +16,7 @@ string의 성질을 잊지 말자. string s의 길이는 걍 s.length() 혹은 s
 string상의 i번째 문자를 보려면 s.at(i);을 쓰면 된다.
 또한, ASCII CODE 상의 32 차이를 더하거나 빼주는 대신 string library의 toupper, tolower 사용하면 된다.
 
+<두 정수 사이의 합>
+
 <소수 찾기>
 //////////
