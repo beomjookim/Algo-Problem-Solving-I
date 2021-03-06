@@ -47,6 +47,8 @@ n9
 m12
 k
 
+<문자열 내림차순으로 배치하기>
+#include <algorithm>을 사용해서 sort, reverse 함수 사용한다.
 
-
-<>
+<정수 제곱근 판별>
+#include <cmath>를 사용해서 pow, sqrt, floor 함수 사용한다.
