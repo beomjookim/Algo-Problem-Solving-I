@@ -1,11 +1,12 @@
 https://programmers.co.kr/learn/challenges
 
-<나누어 떨어지는 숫자 배열>,<약수의 합>,<내적>,<자릿수 더하기>,<문자열 다루기 기본>,<문자열 내 p와 y의 개수>
+<평균 구하기>, <예산>, <핸드폰 번호 가리기>, <x만큼 간격이 있는 n개의 숫자>, <나누어 떨어지는 숫자 배열>, <약수의 합>, <내적>, 
+<자릿수 더하기>, <문자열 다루기 기본>, <문자열 내 p와 y의 개수>, <콜라츠 추측>, <짝수와 홀수>, <시저 암호>
 too easy to comment.
 
 <두 개 뽑아서 더하기>
-방법 1. 중복을 허용하지 않는 set을 사용하고, 끝에 answer.assign(st.begin(), st.end());로 마무리해준다.
-방법 2. 만약 set을 안 쓰고 answer.erase(unique(answer.begin(), answer.end()), answer.end());로 중복을 없애준다.
+1. 중복을 허용하지 않는 set을 사용하고, 끝에 answer.assign(st.begin(), st.end());로 마무리해준다.
+2. 만약 set을 안 쓰고 answer.erase(unique(answer.begin(), answer.end()), answer.end());로 중복을 없애준다.
 
 <2016년>
 방법: hard-coding인데, if - else if 시리즈 연발하지 않고 그냥 배열에 다 넣어주면 된다.
@@ -16,7 +17,7 @@ too easy to comment.
 <이상한 문자 만들기>
 string의 성질을 잊지 말자. string s의 길이는 걍 s.length() 혹은 s.size() 사용.
 string상의 i번째 문자를 보려면 s.at(i);을 쓰면 된다.
-또한, ASCII CODE 상의 32 차이를 더하거나 빼주는 대신 string library의 toupper, tolower 사용하면 된다.
+또한, ASCII CODE 상의 32 차이를 더하거나 빼주는 대신 string library의 toupper, tolower 사용하면 된다. 대문자도 대문자로, 소문자도 소문자로 만든다.
 
 <두 정수 사이의 합>
 swap 함수 활용.
@@ -27,6 +28,9 @@ swap 함수 활용.
 <가운데 글자 가져오기>
 주어진 string이 짝수인지 홀수인지 여부는 s.length() & 1을 사용하면 된다.
 그리고 s.substr(s.length()*0.5,1) : s.substr(s.length()*0.5-1,2) 이렇게 쓰면 더욱 깔끔!
+
+<3진법 뒤집기>
+10진법에서 n진법은 %n과 /n을 사용, n진법에서 10진법은 그냥 더해주면 됨!
 
 <서울에서 김서방 찾기>
 string library에 있는 to_string을 사용해서 int를 string으로 바꿔준다.
@@ -40,10 +44,7 @@ string library에 있는 to_string을 사용해서 int를 string으로 바꿔준
 <정수 제곱근 판별>
 #include <cmath>를 사용해서 pow, sqrt, floor 함수 사용한다.
 
-
-
-
-
+----다시 풀어 볼 문제들-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <문자열 내 마음대로 정렬하기>
 놀라 나자빠질만한 답이다. 나는 처음에 자릿수 char끼리 비교해서 큰 틀에서 정렬해주고 이후에 부분적 정렬을 시도했다.
@@ -85,11 +86,11 @@ k
 <실패율>
 /////////
 
+<정수 내림차순으로 배치하기>
+///////
 
-
-
-
-
+<소수 만들기>
+//////////
 
 
 
