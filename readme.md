@@ -39,6 +39,7 @@
 
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
+|숫자 문자열과 영단어	|Python|	○|
 |평균 구하기	| C++, Python |	○|
 |예산	| C++, Python |	○|
 |핸드폰 번호 가리기	| C++, Python |	○|
@@ -94,4 +95,3 @@
 |2주차	|Python|	yet|
 |3주차	|Python|	yet|
 |4주차	|Python|	yet|
-|숫자 문자열과 영단어	|Python|	yet|
