@@ -1,5 +1,5 @@
 - C++ code
-```CPP
+```cpp
 #include <string>
 #include <vector>
 using namespace std;
@@ -47,7 +47,7 @@ string solution(string new_id)
 
 - Python code
 
-```python3
+```python
 def solution(new_id):
     answer = ''
     new_id = new_id.lower()                                                 #1
