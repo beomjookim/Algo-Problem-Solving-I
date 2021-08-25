@@ -1,4 +1,5 @@
 - C++ code
+
 ```cpp
 #include <string>
 #include <vector>
@@ -45,7 +46,8 @@ string solution(string new_id)
 }
 ```
 
-- Python code
+
+- python code
 
 ```python
 def solution(new_id):
