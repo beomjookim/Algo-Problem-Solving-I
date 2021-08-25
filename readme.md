@@ -57,6 +57,7 @@
 |짝수와 홀수	| C++, Python |	○|
 |시저 암호	| C++, Python |	○|
 |소수 만들기	| C++, Python |	○|
+|폰켓몬	| C++, Python |	○|
 |두 개 뽑아서 더하기 | C++, Python |	☆|
 |2016년	| C++, Python |☆|
 |k번째 수	| C++, Python |☆|
@@ -86,7 +87,6 @@
 |신규 아이디 추천	| C++, Python |	★|
 |직사각형 별찍기	| C++, Python |	★|
 |체육복	| C++, Python |	★|
-|폰켓몬	| C++, Python |	★|
 |수박수박수박수박수?	| C++, Python |	★|
 |같은 숫자는 싫어	| C++, Python |	★|
 |문자열 내림차순으로 배치하기	| C++, Python |	★|
