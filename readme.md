@@ -14,7 +14,7 @@
 # (ENG) Data Structures & Algorithms on programmers
 
 - All the problems below are from [programmers](https://programmers.co.kr/learn/challenges).
-- I solved the problems and distinguished them by difficulty.
+- I distinguished the problems by difficulty as I solved them.
 
     ○: no need to see the problem again, EZ!
 
