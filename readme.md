@@ -38,7 +38,7 @@
 - I solved the questions using C++ at first, and for the second shot, I used Python.
 
 | Problem Name | Used Language | Difficulty|
-|--------------|---------------|-----------|
+|---|---|---|
 |평균 구하기	| C++, Python |	○|
 |예산	| C++, Python |	○|
 |핸드폰 번호 가리기	| C++, Python |	○|
