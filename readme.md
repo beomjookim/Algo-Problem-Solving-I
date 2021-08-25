@@ -1,6 +1,6 @@
 # (KOR) programmers로 자료구조 & 알고리즘 공부
 
-- 아래의 모든 문제는 [프로그래머스]([https://programmers.co.kr/learn/challenges](https://programmers.co.kr/learn/challenges))에서 풀었습니다.
+- 아래의 모든 문제는 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 풀었습니다.
 - 문제를 풀면서, 각각의 문제를 난이도 별로 나누어 보았습니다.
 
     ○: 다시 볼 필요까지는 없는 문제, EZ!
@@ -13,7 +13,7 @@
 
 # (ENG) Data Structures & Algorithms on programmers
 
-- All the problems below are from [programmers]([https://programmers.co.kr/learn/challenges](https://programmers.co.kr/learn/challenges)).
+- All the problems below are from [programmers](https://programmers.co.kr/learn/challenges).
 - I solved the problems and distinguished them by difficulty.
 
     ○: no need to see the problem again, EZ!
@@ -28,10 +28,10 @@
 
 
 ## LEVEL I
-- Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그]([https://blog.naver.com/newtechlead/222360084550](https://blog.naver.com/newtechlead/222360084550))를 통해 확인하실 수 있습니다.
+- Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 쉬워서, 코멘트 할 내용이 많지는 않았습니다.
 - 처음에는 C++로 풀다가, 이후 python으로 다시 풀어보았습니다.
-- Every details about how I solved each problem of Level I are on [my blog]([https://blog.naver.com/newtechlead/222360084550](https://blog.naver.com/newtechlead/222360084550)) *in Korean*,
+- Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*,
 
     though I didn't have much to comment for level I problems, because they are easily doable.
 
