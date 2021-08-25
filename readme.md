@@ -56,6 +56,7 @@
 |콜라츠 추측	| C++, Python |	○|
 |짝수와 홀수	| C++, Python |	○|
 |시저 암호	| C++, Python |	○|
+|소수 만들기	| C++, Python |	○|
 |두 개 뽑아서 더하기 | C++, Python |	☆|
 |2016년	| C++, Python |☆|
 |k번째 수	| C++, Python |☆|
@@ -82,7 +83,6 @@
 |약수의 개수와 덧셈	|Python|	☆|
 |실패율	| C++, Python |	★|
 |정수 내림차순으로 배치하기	| C++, Python |	★|
-|소수 만들기	| C++, Python |	★|
 |신규 아이디 추천	| C++, Python |	★|
 |직사각형 별찍기	| C++, Python |	★|
 |체육복	| C++, Python |	★|
