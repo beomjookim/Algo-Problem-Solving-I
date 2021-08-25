@@ -1,0 +1,32 @@
+- python code
+
+```python
+def solution(n):
+    answer = ''
+    for i in reversed(sorted(list(str(n)))): answer += i
+    return int(answer)
+```
+
+- cpp code
+
+```cpp
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+long long solution(long long n) 
+{
+    vector<int> vec;
+    while(n>0)
+    {
+        vec.push_back(n%10);
+        n /= 10;
+    }
+    sort(vec.rbegin(), vec.rend());
+    long long answer = vec[0];
+    for(int i = 1; i < vec.size(); i++)
+        answer = answer * 10 + vec[i];
+    return answer;
+}
+```
