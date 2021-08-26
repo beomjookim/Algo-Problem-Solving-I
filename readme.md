@@ -106,7 +106,6 @@
 |기능개발	|Python| ○|
 |오픈채팅방	|Python| ○|
 |124나라의 숫자	|Python|	|
-|짝지어 제거하기	|Python|	|
 |행렬 테두리 회전하기	|Python|	|
 |	|Python|	|
 |	|Python|	|
@@ -156,5 +155,6 @@
 |	|Python|	|
 |	|Python|	|
 |멀쩡한 사각형	|Python| ★★|
+|짝지어 제거하기	|Python| ★★|
 |	|Python|	|
 |	|Python|	|
