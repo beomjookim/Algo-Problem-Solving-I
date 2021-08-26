@@ -96,8 +96,65 @@
   
 ## LEVEL II (58 문제, 58 problems)
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다. 모든 문제는 Python으로 풀이하였습니다.
-- Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*. I used Python to solve the problems.
+- Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360905732) *in Korean*. I used Python to solve the problems.
 
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
-|	|Python|	○|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
+|	|Python|	|
