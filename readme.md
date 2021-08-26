@@ -105,7 +105,6 @@
 |타겟 넘버	|Python| ○|
 |기능개발	|C++, Python| ○|
 |오픈채팅방	|Python| ○|
-|행렬 테두리 회전하기	|Python|	|
 |문자열 압축	|C++, Python|	|
 |	|Python|	|
 |	|Python|	|
@@ -133,6 +132,8 @@
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
+|행렬 테두리 회전하기	|Python| ★|
+
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
