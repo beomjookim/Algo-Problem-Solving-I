@@ -10,7 +10,7 @@
     ★: 20분 이상 시도한 문제 혹은 그만한 가치가 있는 문제
 
     ★★: 두 번 이상의 시도 끝에 푼 문제
-
+  
 # (ENG) Data Structures & Algorithms on programmers
 
 - All the problems below are from [programmers](https://programmers.co.kr/learn/challenges).
@@ -23,10 +23,8 @@
     ★: took 20+ minutes to solve or equivalent
 
     ★★: solved in second+ trial
-
-
-
-
+  
+  
 ## LEVEL I (55 문제, 55 problems)
 - Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 비교적 낮아서, 코멘트 할 내용이 많지는 않았습니다.
@@ -94,10 +92,8 @@
 |크레인 인형뽑기 게임	| C++, Python |	★|
 |모의고사	| C++, Python |	★|
 |소수 찾기	| C++, Python |	★★|
-
-
-
-
+  
+  
 ## LEVEL II (58 문제, 58 problems)
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다.
 - Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*
