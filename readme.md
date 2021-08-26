@@ -103,17 +103,17 @@
 |N개의 최소공배수	|Python| ○|
 |더 맵게	|Python| ○|
 |타겟 넘버	|Python| ○|
-|기능개발	|Python| ○|
+|기능개발	|C++, Python| ○|
 |오픈채팅방	|Python| ○|
-|124나라의 숫자	|Python|	|
 |행렬 테두리 회전하기	|Python|	|
+|문자열 압축	|C++, Python|	|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
-|	|Python|	|
+|124나라의 숫자	|C++, Python|	☆|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
