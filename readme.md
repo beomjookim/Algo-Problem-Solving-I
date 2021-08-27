@@ -107,7 +107,6 @@
 |타겟 넘버	|Python| ○|
 |기능개발	|C++, Python| ○|
 |오픈채팅방	|Python| ○|
-|문자열 압축	|C++, Python|	|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
@@ -158,5 +157,5 @@
 |	|Python|	|
 |멀쩡한 사각형	|Python| ★★|
 |짝지어 제거하기	|Python| ★★|
-|	|Python|	|
+|문자열 압축	|C++, Python| ★★|
 |	|Python|	|
