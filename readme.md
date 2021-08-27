@@ -28,7 +28,7 @@
 ## LEVEL I (55 문제, 55 problems)
 - Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 비교적 낮아서, 코멘트 할 내용이 많지는 않았습니다.
-- 처음에는 C++로 풀고, 이후 python으로 다시 풀어보았습니다.
+- 처음에는 C++로 풀었고, 이후 python으로 다시 풀어보았습니다.
 - Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*,
 
     though I didn't have much to comment for level I problems, because they are easily doable.
