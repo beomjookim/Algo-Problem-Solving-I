@@ -153,8 +153,6 @@
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
-|	|Python|	|
-|	|Python|	|
 |멀쩡한 사각형	|Python| ★★|
 |짝지어 제거하기	|Python| ★★|
 |문자열 압축	|C++, Python| ★★|
