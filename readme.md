@@ -107,7 +107,7 @@
 |타겟 넘버	|Python| ○|
 |기능개발	|C++, Python| ○|
 |오픈채팅방	|Python| ○|
-|	|Python|	|
+|소수 찾기	|Python|○|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
