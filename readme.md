@@ -108,7 +108,7 @@
 |기능개발	|C++, Python| ○|
 |오픈채팅방	|Python| ○|
 |소수 찾기	|Python|○|
-|	|Python|	|
+|뉴스 클러스터링	|Python|○|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
