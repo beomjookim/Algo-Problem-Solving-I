@@ -109,7 +109,7 @@
 |오픈채팅방	|Python| ○|
 |소수 찾기	|Python|○|
 |뉴스 클러스터링	|Python|○|
-|	|Python|	|
+|괄호 변환	|Python|○|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
