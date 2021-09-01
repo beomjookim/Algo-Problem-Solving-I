@@ -110,7 +110,7 @@
 |소수 찾기	|Python|○|
 |뉴스 클러스터링	|Python|○|
 |괄호 변환	|Python|○|
-|프린터	|Python|○|
+|프린터	|C++, Python|○|
 |	|Python|	|
 |	|Python|	|
 |124나라의 숫자	|C++, Python|	☆|
