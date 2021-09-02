@@ -134,7 +134,7 @@
 |	|Python|	|
 |	|Python|	|
 |행렬 테두리 회전하기	|Python| ★|
-|	|Python|	|
+|수식 최대화	|Python|★|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
