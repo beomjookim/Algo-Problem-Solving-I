@@ -115,7 +115,7 @@
 |	|Python|	|
 |124나라의 숫자	|C++, Python|	☆|
 |메뉴 리뉴얼	|Python|☆|
-|	|Python|	|
+|튜플	|Python|☆|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
