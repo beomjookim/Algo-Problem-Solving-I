@@ -111,7 +111,7 @@
 |뉴스 클러스터링	|Python|○|
 |괄호 변환	|Python|○|
 |프린터	|C++, Python|○|
-|	|Python|	|
+|거리두기 확인하기	|Python|○|
 |	|Python|	|
 |124나라의 숫자	|C++, Python|	☆|
 |메뉴 리뉴얼	|Python|☆|
