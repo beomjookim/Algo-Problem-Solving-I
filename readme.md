@@ -116,7 +116,7 @@
 |124나라의 숫자	|C++, Python|	☆|
 |메뉴 리뉴얼	|Python|☆|
 |튜플	|Python|☆|
-|	|Python|	|
+|게임 맵 최단거리	|Python|	|
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
