@@ -116,7 +116,7 @@
 |위장	|Python|	○|
 |다리를 지나는 트럭	|C++, Python|	○|
 |H-index	|Python|	○|
-|	|Python|	○|
+|카펫	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
