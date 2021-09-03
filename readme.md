@@ -113,7 +113,7 @@
 |프린터	|C++, Python|○|
 |거리두기 확인하기	|Python|○|
 |괄호 회전하기	|Python|○|
-|	|Python|	○|
+|위장	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
