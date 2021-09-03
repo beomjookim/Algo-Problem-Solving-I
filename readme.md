@@ -151,7 +151,7 @@
 |	|Python|	|
 |	|Python|	|
 |	|Python|	|
-|	|Python|	|
+|후보키	|Python|★★|
 |전화번호 목록	|Python|★★|
 |멀쩡한 사각형	|Python| ★★|
 |짝지어 제거하기	|Python| ★★|
