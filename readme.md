@@ -114,7 +114,7 @@
 |거리두기 확인하기	|Python|○|
 |괄호 회전하기	|Python|○|
 |위장	|Python|	○|
-|	|Python|	○|
+|다리를 지나는 트럭	|C++, Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
