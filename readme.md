@@ -130,7 +130,7 @@
 |튜플	|Python|☆|
 |게임 맵 최단거리	|Python|☆|
 |예상 대진표	|Python|	☆|
-|	|Python|	☆|
+|배달	|Python|	☆|
 |	|Python|	☆|
 |	|Python|	☆|
 |	|Python|	☆|
