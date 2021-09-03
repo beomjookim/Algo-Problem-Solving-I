@@ -115,7 +115,7 @@
 |괄호 회전하기	|Python|○|
 |위장	|Python|	○|
 |다리를 지나는 트럭	|C++, Python|	○|
-|	|Python|	○|
+|정렬	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
