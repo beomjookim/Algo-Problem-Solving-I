@@ -117,7 +117,7 @@
 |다리를 지나는 트럭	|C++, Python|	○|
 |H-index	|Python|	○|
 |카펫	|Python|	○|
-|	|Python|	○|
+|영어 끝말잇기	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
