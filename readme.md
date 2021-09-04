@@ -119,7 +119,7 @@
 |카펫	|Python|	○|
 |영어 끝말잇기	|Python|	○|
 |두 개 이하로 다른 비트	|Python|	○|
-|	|Python|	○|
+|삼각 달팽이	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
