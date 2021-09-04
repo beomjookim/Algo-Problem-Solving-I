@@ -118,7 +118,7 @@
 |H-index	|Python|	○|
 |카펫	|Python|	○|
 |영어 끝말잇기	|Python|	○|
-|	|Python|	○|
+|두 개 이하로 다른 비트	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
