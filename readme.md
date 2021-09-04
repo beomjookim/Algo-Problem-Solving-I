@@ -146,7 +146,7 @@
 |	|Python|	☆|
 |행렬 테두리 회전하기	|Python| ★|
 |수식 최대화	|Python|★|
-|	|Python|	★|
+|프렌즈4블록	|Python|	★|
 |	|Python|	★|
 |	|Python|	★|
 |	|Python|	★|
