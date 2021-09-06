@@ -121,7 +121,7 @@
 |두 개 이하로 다른 비트	|Python|	○|
 |삼각 달팽이	|Python|	○|
 |큰 수 만들기	|Python|	○|
-|	|Python|	○|
+|주식가격	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
