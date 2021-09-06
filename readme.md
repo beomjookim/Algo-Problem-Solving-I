@@ -122,7 +122,7 @@
 |삼각 달팽이	|Python|	○|
 |큰 수 만들기	|Python|	○|
 |주식가격	|Python|	○|
-|	|Python|	○|
+|이진 변환 반복하기	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |124나라의 숫자	|C++, Python|	☆|
