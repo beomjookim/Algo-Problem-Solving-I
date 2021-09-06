@@ -148,7 +148,7 @@
 |수식 최대화	|Python|★|
 |프렌즈4블록	|Python|	★|
 |구명보트	|Python|	★|
-|	|Python|	★|
+|캐시	|Python|	★|
 |	|Python|	★|
 |	|Python|	★|
 |	|Python|	★|
