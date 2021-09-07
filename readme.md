@@ -128,7 +128,7 @@
 |피보나치 수	|Python|	○|
 |최솟값 만들기	|Python|	○|
 |최댓값과 최솟값	|Python|	○|
-|	|Python|	○|
+|숫자의 표현	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
