@@ -127,7 +127,7 @@
 |행렬의 곱셈	|Python|	○|
 |피보나치 수	|Python|	○|
 |최솟값 만들기	|Python|	○|
-|	|Python|	○|
+|최댓값과 최솟값	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
