@@ -125,7 +125,7 @@
 |이진 변환 반복하기	|Python|	○|
 |Jayden Case 문자열 만들기	|Python|	○|
 |행렬의 곱셈	|Python|	○|
-|	|Python|	○|
+|피보나치 수	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
