@@ -123,6 +123,23 @@
 |큰 수 만들기	|Python|	○|
 |주식가격	|Python|	○|
 |이진 변환 반복하기	|Python|	○|
+|Jayden Case 문자열 만들기	|Python|	○|
+|행렬의 곱셈	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
+|	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |124나라의 숫자	|C++, Python|	☆|
