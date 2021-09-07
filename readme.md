@@ -126,7 +126,7 @@
 |Jayden Case 문자열 만들기	|Python|	○|
 |행렬의 곱셈	|Python|	○|
 |피보나치 수	|Python|	○|
-|	|Python|	○|
+|최솟값 만들기	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
