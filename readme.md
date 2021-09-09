@@ -178,7 +178,7 @@
 |	|Python|	★|
 |	|Python|	★|
 |	|Python|	★|
-|	|Python|	★|
+|압축	|Python|	★★|
 |순위 검색	|Python|★★|
 |후보키	|Python|★★|
 |전화번호 목록	|Python|★★|
