@@ -132,7 +132,7 @@
 |숫자의 표현	|Python|	○|
 |다음 큰 숫자	|Python|	○|
 |n진수 게임	|Python|	○|
-|	|Python|	○|
+|올바른 괄호	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
