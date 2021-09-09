@@ -130,8 +130,8 @@
 |최솟값 만들기	|Python|	○|
 |최댓값과 최솟값	|Python|	○|
 |숫자의 표현	|Python|	○|
-|	|Python|	○|
-|	|Python|	○|
+|다음 큰 숫자	|Python|	○|
+|n진수 게임	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
@@ -187,4 +187,4 @@
 |문자열 압축	|C++, Python| ★★|
 |가장 큰 수 |Python| ★★|
 |5주차 |Python|★★|
-|	|Python|	★★|
+|땅따먹기	|Python|	★★|
