@@ -124,7 +124,7 @@
 |큰 수 만들기	|Python|	○|
 |주식가격	|Python|	○|
 |이진 변환 반복하기	|Python|	○|
-|Jayden Case 문자열 만들기	|Python|	○|
+|Jaden Case 문자열 만들기	|Python|	○|
 |행렬의 곱셈	|Python|	○|
 |피보나치 수	|Python|	○|
 |최솟값 만들기	|Python|	○|
