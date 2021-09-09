@@ -1,0 +1,40 @@
+- python code
+
+```python
+def solution(d, budget):
+    su = 0
+    cnt = 0
+    d.sort()
+    for x in d:
+        su += x
+        if su > budget:
+            return cnt
+        cnt += 1
+    return len(d)
+```
+
+- cpp code
+
+```cpp
+#include <iostream>
+#include <stdio.h>
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int solution(vector<int> d, int budget) 
+{
+    int answer = 0;
+    int need = 0;
+    sort(d.begin(), d.end());
+    while(need + d[answer] <= budget)
+    {
+        need += d[answer];
+        answer++;
+        if(d.size()==answer) return answer;
+    }
+    return answer;
+}
+```
