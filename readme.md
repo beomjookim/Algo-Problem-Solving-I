@@ -133,7 +133,7 @@
 |다음 큰 숫자	|Python|	○|
 |n진수 게임	|Python|	○|
 |올바른 괄호	|Python|	○|
-|	|Python|	○|
+|파일명 정렬	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
