@@ -177,7 +177,7 @@
 |	|Python|	★|
 |	|Python|	★|
 |	|Python|	★|
-|	|Python|	★|
+|쿼드압축 후 개수 세기	|Python|	★★|
 |압축	|Python|	★★|
 |순위 검색	|Python|★★|
 |후보키	|Python|★★|
