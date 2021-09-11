@@ -134,7 +134,7 @@
 |n진수 게임	|Python|	○|
 |올바른 괄호	|Python|	○|
 |파일명 정렬	|Python|	○|
-|	|Python|	○|
+|가장 큰 정사각형 찾기	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
