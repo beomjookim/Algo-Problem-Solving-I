@@ -136,7 +136,7 @@
 |파일명 정렬	|Python|	○|
 |가장 큰 정사각형 찾기	|Python|	○|
 |방문 길이	|Python|	○|
-|	|Python|	○|
+|점프와 순간이동	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
 |	|Python|	○|
