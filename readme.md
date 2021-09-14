@@ -137,46 +137,18 @@
 |가장 큰 정사각형 찾기	|Python|	○|
 |방문 길이	|Python|	○|
 |점프와 순간이동	|Python|	○|
-|	|Python|	○|
-|	|Python|	○|
-|	|Python|	○|
-|	|Python|	○|
-|	|Python|	○|
-|	|Python|	○|
+|방금그곡	|Python|	○|
 |124나라의 숫자	|C++, Python|	☆|
 |메뉴 리뉴얼	|Python|☆|
 |튜플	|Python|☆|
 |게임 맵 최단거리	|Python|☆|
 |예상 대진표	|Python|	☆|
 |배달	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
-|	|Python|	☆|
 |행렬 테두리 회전하기	|Python| ★|
 |수식 최대화	|Python|★|
 |프렌즈4블록	|Python|	★|
 |구명보트	|Python|	★|
 |캐시	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
-|	|Python|	★|
 |쿼드압축 후 개수 세기	|Python|	★★|
 |압축	|Python|	★★|
 |순위 검색	|Python|★★|
