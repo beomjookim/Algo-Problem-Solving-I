@@ -1,4 +1,4 @@
-# (KOR) programmers로 자료구조 & 알고리즘 공부 
+# (KOR) programmers로 자료구조 & 알고리즘 공부
 
 - 아래의 모든 문제는 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 풀었습니다.
 - 문제를 풀면서, 각각의 문제를 난이도 별로 나누어 보았습니다.
