@@ -3,7 +3,7 @@
 - 아래의 모든 문제는 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 풀었습니다.
 - 문제를 풀면서, 각각의 문제를 난이도 별로 나누어 보았습니다.
 
-    ○: 다시 볼 필요까지는 없는 문제, EZ!
+    ○: 다시 볼 필요까지는 없는 문제, EZ! 
     
     ☆: 문제를 풀며 나온 팁들은 나중에 확인 필요 
 
@@ -35,7 +35,7 @@
 
 - I solved the questions using C++ at first, and for the second shot, I used Python.
 
-| Problem Name | Used Language | Difficulty|
+| Problem Name | Used Language | Difficulty |
 |---|---|---|
 |1주차	|Python|	○|
 |2주차	|Python|	○|
