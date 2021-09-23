@@ -103,7 +103,6 @@
 
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
-|빛의 경로 사이클|python|---|
 |N개의 최소공배수	|Python| ○|
 |더 맵게	|Python| ○|
 |타겟 넘버	|Python| ○|
@@ -162,3 +161,4 @@
 |5주차 |Python|★★|
 |땅따먹기	|Python|	★★|
 |7주차|python|★★|
+|빛의 경로 사이클|python|★★|
