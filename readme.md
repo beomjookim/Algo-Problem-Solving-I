@@ -38,6 +38,7 @@
 | Problem Name | Used Language | Difficulty |
 |---|---|---|
 |1주차	|Python|	○|
+|없는 숫자 |Python|	○|
 |2주차	|Python|	○|
 |4주차	|Python|	○|
 |6주차    |Python|	○|
