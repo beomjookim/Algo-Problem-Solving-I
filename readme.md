@@ -112,11 +112,9 @@
 |소수 찾기	|Python|○|
 |뉴스 클러스터링	|Python|○|
 |괄호 변환	|Python|○|
-|프린터	|C++, Python|○|
 |거리두기 확인하기	|Python|○|
 |괄호 회전하기	|Python|○|
 |위장	|Python|	○|
-|다리를 지나는 트럭	|C++, Python|	○|
 |H-index	|Python|	○|
 |카펫	|Python|	○|
 |영어 끝말잇기	|Python|	○|
@@ -139,12 +137,14 @@
 |방문 길이	|Python|	○|
 |점프와 순간이동	|Python|	○|
 |방금그곡	|Python|	○|
-|124나라의 숫자	|C++, Python|	☆|
+|프린터	|C++, Python|○|
+|다리를 지나는 트럭	|C++, Python|	○|
 |메뉴 리뉴얼	|Python|☆|
 |튜플	|Python|☆|
 |게임 맵 최단거리	|Python|☆|
 |예상 대진표	|Python|	☆|
 |배달	|Python|	☆|
+|124나라의 숫자	|C++, Python|	☆|
 |행렬 테두리 회전하기	|Python| ★|
 |수식 최대화	|Python|★|
 |프렌즈4블록	|Python|	★|
@@ -157,9 +157,9 @@
 |전화번호 목록	|Python|★★|
 |멀쩡한 사각형	|Python| ★★|
 |짝지어 제거하기	|Python| ★★|
-|문자열 압축	|C++, Python| ★★|
 |가장 큰 수 |Python| ★★|
 |5주차 |Python|★★|
 |땅따먹기	|Python|	★★|
 |7주차|python|★★|
 |빛의 경로 사이클|python|★★|
+|문자열 압축	|C++, Python| ★★|
