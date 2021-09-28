@@ -175,4 +175,4 @@
 |---|---|---|
 |등굣길	|Python|	○|
 |단어 변환	|Python| ★★|
-|입국심사	|Python|	???|
+|입국심사	|Python|problem flaw suspected|
