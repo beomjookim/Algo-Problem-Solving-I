@@ -177,6 +177,7 @@
 |2 x n 타일링	|Python|	○|
 |등굣길	|Python|	○|
 |가장 먼 노드	|Python|	○|
+|정수 삼각형 | Python|	○|
 |추석 트래픽	|Python|	★|
 |N으로 표현	|Python|	★|
 |단어 변환	|Python| ★★|
