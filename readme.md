@@ -176,6 +176,7 @@
 |이중우선순위큐	|Python|	○|
 |2 x n 타일링	|Python|	○|
 |등굣길	|Python|	○|
+|가장 먼 노드	|Python|	○|
 |추석 트래픽	|Python|	★|
 |N으로 표현	|Python|	★|
 |단어 변환	|Python| ★★|
