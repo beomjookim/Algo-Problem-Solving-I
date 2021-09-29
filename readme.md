@@ -184,4 +184,5 @@
 |네트워크	|Python|	★|
 |N으로 표현	|Python|	★|
 |단어 변환	|Python| ★★|
+|순위	|Python| ★★|
 |입국심사	|Python|Problem Flaw Suspected|
