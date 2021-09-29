@@ -173,6 +173,9 @@
 
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
+|이중우선순위큐	|Python|	○|
+|2 x n 타일링	|Python|	○|
 |등굣길	|Python|	○|
+|추석 트래픽	|Python|	★|
 |단어 변환	|Python| ★★|
-|입국심사	|Python|problem flaw suspected|
+|입국심사	|Python|Problem Flaw Suspected|
