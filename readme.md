@@ -180,10 +180,10 @@
 |등굣길	|Python|	○|
 |가장 먼 노드	|Python|	○|
 |정수 삼각형 | Python|	○|
+|디스크 컨트롤러 |Python| ○|
 |추석 트래픽	|Python|	★|
 |네트워크	|Python|	★|
 |N으로 표현	|Python|	★|
-|디스크 컨트롤러 |Python| |
 |다단계 칫솔 판매 |Python| |
 |자물쇠와 열쇠 |Python| |
 |단어 변환	|Python| ★★|
