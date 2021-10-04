@@ -190,6 +190,7 @@
 |자물쇠와 열쇠 |Python| ★|
 |단어 변환	|Python| ★★|
 |순위	|Python| ★★|
+|숫자 게임	|Python| ★★|
 |다단계 칫솔 판매 |Python| ★★|
 |불량 사용자 |Python| ★★|
 |입국심사	|Python|Problem Flaw Suspected|
