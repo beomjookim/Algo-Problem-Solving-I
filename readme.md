@@ -190,4 +190,6 @@
 |단어 변환	|Python| ★★|
 |순위	|Python| ★★|
 |다단계 칫솔 판매 |Python| ★★|
+|불량 사용자 |Python| ★★|
 |입국심사	|Python|Problem Flaw Suspected|
+|표 편집 |Python| ★★★|
