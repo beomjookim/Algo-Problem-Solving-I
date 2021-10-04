@@ -181,6 +181,7 @@
 |가장 먼 노드	|Python|	○|
 |정수 삼각형 | Python|	○|
 |디스크 컨트롤러 |Python| ○|
+|셔틀버스 | Python | ○|
 |추석 트래픽	|Python|	★|
 |보석 쇼핑	|Python|	★|
 |네트워크	|Python|	★|
