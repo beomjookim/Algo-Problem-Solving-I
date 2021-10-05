@@ -15,7 +15,7 @@
 # (ENG) Data Structures & Algorithms on programmers
 
 - All the problems below are from [programmers](https://programmers.co.kr/learn/challenges).
-- I went over level 1, 2, 3 problems
+- I went over all the level 1, 2, 3 problems
 - I distinguished the problems by difficulty after solving them.
 
     ○: no need to try the problem again, EZ!
