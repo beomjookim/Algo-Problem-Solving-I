@@ -186,6 +186,7 @@
 |하노이의 탑 | Python | ○|
 |줄 서는 방법 | Python | ○|
 |추석 트래픽	|Python|	★|
+|갸근 지수	|Python|	★|
 |보석 쇼핑	|Python|	★|
 |네트워크	|Python|	★|
 |N으로 표현	|Python|	★|
