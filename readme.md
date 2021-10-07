@@ -176,6 +176,7 @@
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
 |이중우선순위큐	|Python|	○|
+|기지국 설치	|Python|	○|
 |2 x n 타일링	|Python|	○|
 |등굣길	|Python|	○|
 |최고의 집합	|Python|	○|
