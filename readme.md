@@ -189,6 +189,7 @@
 |줄 서는 방법 | Python | ○|
 |멀리 뛰기| Python | ○|
 |단속카메라| Python | ○|
+|베스트앨범| Python | ○|
 |스타 수열	|Python|	○|
 |추석 트래픽	|Python|	★|
 |야근 지수	|Python|	★|
