@@ -165,6 +165,7 @@
 |5주차 |Python|★★|
 |땅따먹기	|Python|	★★|
 |7주차|python|★★|
+|9주차|python|★★|
 |빛의 경로 사이클|python|★★|
 |문자열 압축	|C++, Python| ★★|
 
