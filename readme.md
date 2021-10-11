@@ -44,6 +44,7 @@
 |2주차	|Python|	○|
 |4주차	|Python|	○|
 |6주차    |Python|	○|
+|8주차	|Python|	○|
 |숫자 문자열과 영단어	|Python|	○|
 |평균 구하기	| C++, Python |	○|
 |예산	| C++, Python |	○|
