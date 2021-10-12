@@ -31,7 +31,7 @@
 - Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 비교적 낮아서, 코멘트 할 내용이 많지는 않았습니다.
 - 처음에는 C++로 풀었고, 이후 python으로 다시 풀어보았습니다.
-- Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*,
+- Every detail about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*,
 
     though I didn't have much to comment for level I problems, because they are easily doable.
 
@@ -102,7 +102,7 @@
 ## LEVEL II (59 문제, 59 problems)
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 대부분의 문제는 Python으로 풀이하였습니다.
-- Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360905732) *in Korean*.
+- Every detail about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360905732) *in Korean*.
 - The difficulty of each problem shown in the blog and the table below might be different because I solved the problems several times. I mostly used Python to solve the problems.
 
 | Problem Name | Used Language | Difficulty|
@@ -172,7 +172,7 @@
 ## LEVEL III (문제, problems)
 - Level III 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222519421366)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 모든 문제는 Python으로 풀이하였습니다.
-- Every details about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222519421366) *in Korean*.
+- Every detail about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222519421366) *in Korean*.
 - The difficulty of each problem shown in the blog and the table below might be different because I solved the problems several times. I used Python to solve the problems.
 
 | Problem Name | Used Language | Difficulty|
