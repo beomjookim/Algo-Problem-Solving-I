@@ -206,5 +206,6 @@
 |불량 사용자 |Python| ★★|
 |거스름돈 |Python| ★★|
 |풍선 터트리기 |Python| ★★|
+|합승 택시 요금 |Python| ★★|
 |입국심사	|Python|Problem Flaw Suspected|
 |표 편집 |Python| ★★★|
