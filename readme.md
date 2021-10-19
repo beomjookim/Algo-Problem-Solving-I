@@ -100,7 +100,7 @@
 |소수 찾기	| C++, Python |	★★|
   
   
-## LEVEL II (59 문제, 59 problems)
+## LEVEL II (62 문제, 62 problems)
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 대부분의 문제는 Python으로 풀이하였습니다.
 - Every detail of how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360905732) *in Korean*.
@@ -108,6 +108,8 @@
 
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
+|10주차|python|---|
+|n^2 배열 자르기|python|---|
 |N개의 최소공배수	|Python| ○|
 |더 맵게	|Python| ○|
 |9주차	|Python| ○|
