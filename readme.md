@@ -33,7 +33,7 @@
 - 처음에는 C++로 풀었고, 이후 python으로 다시 풀어보았습니다.
 - Every detail about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360084550) *in Korean*,
 
-    though I didn't have much to comment for level I problems, because they are easily doable.
+    Although I didn't have much to comment for level I problems, because they are easily doable.
 
 - I solved the questions using C++ at first, and for the second shot, I used Python.
 
