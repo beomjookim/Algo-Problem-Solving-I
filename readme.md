@@ -18,7 +18,7 @@
 - I went over all the level 1, 2, 3 problems
 - I distinguished the problems by difficulty after solving them.
 
-    ○: no need to try the problem again, EZ!
+    ○: no need to try the problem again, EZ!!
 
     ☆: remind the tips from solving the question after
 
