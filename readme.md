@@ -35,7 +35,7 @@
 
     Although I didn't have much to comment for level I problems, because they are easily doable.
 
-- I solved the questions using C++ at first, and for the second shot, I used Python.
+- I solved the problems using C++ at first, and for the second shot, I used Python.
 
 | Problem Name | Used Language | Difficulty |
 |---|---|---|
