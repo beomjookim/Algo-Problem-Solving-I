@@ -24,7 +24,7 @@
 
     ★: took 20+ minutes to solve or equivalent
 
-    ★★: solved in second+ trial
+    ★★: solved in second+α trial
   
   
 ## LEVEL I (59 문제, 59 problems)
