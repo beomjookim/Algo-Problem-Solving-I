@@ -83,6 +83,7 @@
 |문자열을 정수로 바꾸기	| C++, Python |	☆|
 |로또 최고 순위와 최저 순위	|Python|	☆|
 |비밀 지도	|Python|	☆|
+|	|Python|	☆|
 |다트 게임	|Python|	☆|
 |음양 더하기	|Python|	☆|
 |약수의 개수와 덧셈	|Python|	☆|
