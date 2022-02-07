@@ -172,6 +172,7 @@
 |7주차|python|★★|
 |빛의 경로 사이클|python|★★|
 |문자열 압축	|C++, Python| ★★|
+|k진수에서 소수 개수 구하기 | Python | ★★|
 
 
 ## LEVEL III (32 문제, 32 problems)
