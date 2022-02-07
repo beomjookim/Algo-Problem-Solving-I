@@ -101,7 +101,7 @@
 |소수 찾기	| C++, Python |	★★|
   
   
-## LEVEL II (65 문제, 65 problems)
+## LEVEL II (66 문제, 66 problems)
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 대부분의 문제는 Python으로 풀이하였습니다.
 - Every detail of how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360905732) *in Korean*.
@@ -174,6 +174,7 @@
 |빛의 경로 사이클|python|★★|
 |문자열 압축	|C++, Python| ★★|
 |k진수에서 소수 개수 구하기 | Python | ★★|
+|양궁대회 | Python | ★★|
 
 
 ## LEVEL III (32 문제, 32 problems)
