@@ -110,6 +110,7 @@
 | Problem Name | Used Language | Difficulty|
 |---|---|---|
 |10주차|python|○|
+|주차 요금 계산|python|○|
 |n^2 배열 자르기|python|○|
 |N개의 최소공배수	|Python| ○|
 |더 맵게	|Python| ○|
