@@ -42,6 +42,7 @@
 |1주차	|Python|	○|
 |없는 숫자 더하기 | C++, Python|	○|
 |나머지가 1이 되는 수 찾기|Python| ○|
+|신고 결과 받기	|Python|	○|
 |2주차	|Python|	○|
 |4주차	|Python|	○|
 |6주차    |Python|	○|
@@ -83,7 +84,6 @@
 |문자열을 정수로 바꾸기	| C++, Python |	☆|
 |로또 최고 순위와 최저 순위	|Python|	☆|
 |비밀 지도	|Python|	☆|
-|	|Python|	☆|
 |다트 게임	|Python|	☆|
 |음양 더하기	|Python|	☆|
 |약수의 개수와 덧셈	|Python|	☆|
