@@ -222,9 +222,9 @@
 
 # 카카오 기출문제 풀이
 
-|Date|Level|Title|
+|Date|Level|Title|Time Used|
 |-|-|-|
-|2/21|lv 1|신고 결과 받기|
+|2/21|lv 1|신고 결과 받기|14 min|
 |/|lv ||
 |/|lv ||
 |/|lv ||
