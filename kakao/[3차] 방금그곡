@@ -1,0 +1,17 @@
+## 나의 풀이
+
+replace는 강력하다!
+
+```python
+def solution(m, musicinfos):
+    cand = []
+    m = m.replace('C#','H').replace('D#','I').replace('F#','J').replace('G#','K').replace('A#','L')
+    
+    for info in musicinfos:
+        a,b,c,d = info.split(',')
+        mnt = (int(b[0:2])-int(a[0:2]))*60 + (int(b[3:5])-int(a[3:5]))
+        d = d.replace('C#','H').replace('D#','I').replace('F#','J').replace('G#','K').replace('A#','L')
+        d = d*(mnt//len(d)) + d[:mnt%len(d)]
+        if m in d:
+            if not cand or cand[0] < mnt: cand = [mnt, c]
+    return cand[1] if cand else '(None)'
