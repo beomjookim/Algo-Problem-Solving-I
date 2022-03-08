@@ -1,6 +1,6 @@
 ## 나의 풀이
 
-더할 나위 없는 풀이. ㅋ
+더할 나위 없는 풀이 ㅋ
 
 ```python
 from math import floor
@@ -18,7 +18,6 @@ def solution(n, k):
     while n:
         conv += str(n%k)
         n //= k
-    cand = conv[::-1].split('0')
     
-    return sum([isPrime(s) for s in cand if s])
+    return sum([isPrime(s) for s in conv[::-1].split('0') if s])
 ```
