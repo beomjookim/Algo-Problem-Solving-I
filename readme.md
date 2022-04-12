@@ -32,9 +32,9 @@
 
 # About
 - [LEVEL I (60 문제, 60 problems)](#level-i)
-- [LEVEL II (60 문제, 60 problems)](#level-ii)
-- [LEVEL III (60 문제, 60 problems)](#level-iii)
-- [KAKAO problems (60 문제, 60 problems)](#카카오-기출문제-풀이)
+- [LEVEL II (66 문제, 66 problems)](#level-ii)
+- [LEVEL III (32 문제, 32 problems)](#level-iii)
+- [KAKAO problems (48 문제, 48 problems)](#카카오-기출문제-풀이)
 
 ---
 
