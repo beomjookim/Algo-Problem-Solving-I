@@ -1,4 +1,4 @@
-[king](### LEVEL I (60 문제, 60 problems))
+[king](# LEVEL I (60 문제, 60 problems))
 
 
 # (KOR) programmers로 자료구조 & 알고리즘 공부
