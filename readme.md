@@ -1,8 +1,3 @@
-# About
-[LV1](#level-i-(60-문제,-60-problems))
-
----
-
 # (KOR) programmers로 자료구조 & 알고리즘 공부
 
 - 아래의 모든 문제는 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 풀었습니다.
@@ -33,6 +28,11 @@
 
     ★★: solved in second+α trial
   
+---
+
+# About
+- [LEVEL I (60 문제, 60 problems)](#level-i--60-----60-problems-)
+
 ---
 
 ## LEVEL I (60 문제, 60 problems)
