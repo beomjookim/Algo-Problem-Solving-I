@@ -2,6 +2,7 @@
 
 - 아래의 모든 문제는 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 풀었습니다.
 - 1, 2, 3단계 문제들을 풀었습니다.
+- 이후에 카카오 기출문제를 풀었습니다.
 - 문제를 풀면서, 각각의 문제를 난이도 별로 나누어 보았습니다.
 
     ○: 다시 볼 필요까지는 없는 문제, EZ!!
@@ -15,7 +16,8 @@
 # (ENG) Data Structures & Algorithms on programmers
 
 - All the problems below are from [programmers](https://programmers.co.kr/learn/challenges).
-- I went over all the level 1, 2, 3 problems
+- I went over all the level 1, 2, 3 problems.
+- After, I solved problems that were on KAKAO test.
 - I distinguished the problems by difficulty after solving them.
 
     ○: no need to try the problem again, EZ!!
