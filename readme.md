@@ -1,4 +1,15 @@
-# (KOR) programmers로 자료구조 & 알고리즘 공부
+# Contents
+- [About](#about)
+- [LEVEL I (60 문제, 60 problems)](#level-i)
+- [LEVEL II (66 문제, 66 problems)](#level-ii)
+- [LEVEL III (32 문제, 32 problems)](#level-iii)
+- [KAKAO problems (48 문제, 48 problems)](#카카오-기출문제-풀이)
+
+---
+
+# About
+
+## (KOR) programmers로 자료구조 & 알고리즘 공부
 
 - 아래의 모든 문제는 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 풀었습니다.
 - 1, 2, 3단계 문제들을 풀었습니다.
@@ -13,7 +24,7 @@
 
     ★★: 두 번 이상의 시도 끝에 푼 문제
   
-# (ENG) Data Structures & Algorithms on programmers
+## (ENG) Data Structures & Algorithms on programmers
 
 - All the problems below are from [programmers](https://programmers.co.kr/learn/challenges).
 - I went over all the level 1, 2, 3 problems.
@@ -27,14 +38,6 @@
     ★: took 20+ minutes to solve or equivalent
 
     ★★: solved in second+α trial
-  
----
-
-# About
-- [LEVEL I (60 문제, 60 problems)](#level-i)
-- [LEVEL II (66 문제, 66 problems)](#level-ii)
-- [LEVEL III (32 문제, 32 problems)](#level-iii)
-- [KAKAO problems (48 문제, 48 problems)](#카카오-기출문제-풀이)
 
 ---
 
