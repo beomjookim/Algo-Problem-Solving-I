@@ -1,5 +1,7 @@
-[king](#level-i-(60-문제,-60-problems))
+# About
+[LV1](#level-i-(60-문제,-60-problems))
 
+---
 
 # (KOR) programmers로 자료구조 & 알고리즘 공부
 
@@ -31,8 +33,9 @@
 
     ★★: solved in second+α trial
   
-  
-## LEVEL II (60 문제, 60 problems)
+---
+
+## LEVEL I (60 문제, 60 problems)
 
 - Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 비교적 낮아서, 코멘트 할 내용이 많지는 않았습니다.
@@ -106,7 +109,8 @@
 |모의고사	| C++, Python |	★|
 |소수 찾기	| C++, Python |	★★|
   
-  
+---
+
 ## LEVEL II (66 문제, 66 problems)
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 대부분의 문제는 Python으로 풀이하였습니다.
@@ -182,6 +186,7 @@
 |k진수에서 소수 개수 구하기 | Python | ★★|
 |양궁대회 | Python | ★★|
 
+---
 
 ## LEVEL III (32 문제, 32 problems)
 - Level III 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222519421366)를 통해 확인하실 수 있습니다.
@@ -224,17 +229,8 @@
 |입국심사	|Python|Problem Flaw Suspected|
 |표 편집 |Python| ★★★|
 
-
-
-
-
-
-
-
-
-
-
-
+---
+---
 
 
 # 카카오 기출문제 풀이
