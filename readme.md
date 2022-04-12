@@ -32,6 +32,9 @@
 
 # About
 - [LEVEL I (60 문제, 60 problems)](#level-i)
+- [LEVEL II (60 문제, 60 problems)](#level-ii)
+- [LEVEL III (60 문제, 60 problems)](#level-iii)
+- [KAKAO problems (60 문제, 60 problems)](#카카오-기출문제-풀이)
 
 ---
 
@@ -112,7 +115,9 @@
   
 ---
 
-## LEVEL II (66 문제, 66 problems)
+## LEVEL II
+### 66 문제, 66 problems
+
 - Level II 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222360905732)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 대부분의 문제는 Python으로 풀이하였습니다.
 - Every detail of how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222360905732) *in Korean*.
@@ -189,7 +194,9 @@
 
 ---
 
-## LEVEL III (32 문제, 32 problems)
+## LEVEL III
+### 32 문제, 32 problems
+
 - Level III 문제 각각에 대한 저의 풀이 과정과 팁들은 [제 블로그](https://blog.naver.com/newtechlead/222519421366)를 통해 확인하실 수 있습니다.
 - 문제를 여러 번 풀었기 때문에, 각각의 문제에 대해 블로그에 기재된 문제 난이도와 아래 표의 난이도가 다를 수 있습니다. 모든 문제는 Python으로 풀이하였습니다.
 - Every detail about how I solved each problem of Level I are on [my blog](https://blog.naver.com/newtechlead/222519421366) *in Korean*.
@@ -233,8 +240,8 @@
 ---
 ---
 
-
 # 카카오 기출문제 풀이
+## 48 문제, 48 problems
 
 하루에 한 문제 이상씩 카카오 기출문제를 풀이하였습니다. 시간은 답안 없이 문제를 해결하는 데 걸린 시간입니다.
 
