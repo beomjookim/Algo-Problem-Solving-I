@@ -1,4 +1,4 @@
-[king](# LEVEL I (60 문제, 60 problems))
+[king](#level-i-(60-문제,-60-problems))
 
 
 # (KOR) programmers로 자료구조 & 알고리즘 공부
@@ -32,7 +32,8 @@
     ★★: solved in second+α trial
   
   
-## LEVEL I (60 문제, 60 problems)
+LEVEL I (60 문제, 60 problems)
+
 - Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 비교적 낮아서, 코멘트 할 내용이 많지는 않았습니다.
 - 처음에는 C++로 풀었고, 이후 python으로 다시 풀어보았습니다.
