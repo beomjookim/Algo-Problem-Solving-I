@@ -118,7 +118,6 @@
 |소수 찾기	| C++, Python |	★★|
 </details>
 
-  
 ---
 
 ## LEVEL II
@@ -247,6 +246,7 @@
 |입국심사	|Python|Problem Flaw Suspected|
 |표 편집 |Python| ★★★|
 
+</details>
 ---
 
 ## KAKAO
