@@ -25,9 +25,7 @@ class Solution:
 ```python
 class Solution:
     def romanToInt(self, s: str) -> int:
-        translations = { "I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
-        s = s.replace("IV", "IIII").replace("IX", "VIIII")
-        s = s.replace("XL", "XXXX").replace("XC", "LXXXX")
-        s = s.replace("CD", "CCCC").replace("CM", "DCCCC")
+        translations = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000, 'E': 4, 'F': 9, 'G': 40, 'H': 90, 'J': 400, 'K': 900}
+        s = s.replace("IV", "E").replace("IX", "F").replace("XL", "G").replace("XC", "H").replace("CD", "J").replace("CM", "K")
         return sum([translations[char] for char in s])
 ```
