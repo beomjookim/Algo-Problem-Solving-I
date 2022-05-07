@@ -41,8 +41,10 @@
 
 ---
 
-## LEVEL I
-### 60 문제, 60 problems
+<details>
+    <summary>LEVEL I</summary>
+    
+    ### 60 문제, 60 problems
 
 - Level I 문제 각각에 대한 저의 풀이 과정과 팁들은 [저의 블로그](https://blog.naver.com/newtechlead/222360084550)를 통해 확인하실 수 있습니다.
 - 프로그래머스 레벨 I 문제들은 난이도가 비교적 낮아서, 코멘트 할 내용이 많지는 않았습니다.
@@ -115,6 +117,9 @@
 |크레인 인형뽑기 게임	| C++, Python |	★|
 |모의고사	| C++, Python |	★|
 |소수 찾기	| C++, Python |	★★|
+</details>
+## LEVEL I
+
   
 ---
 
