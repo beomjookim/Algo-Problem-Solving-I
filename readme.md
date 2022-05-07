@@ -315,10 +315,10 @@
 <details>
     <summary>2 문제, 2 problems</summary>
     
-|Date|difficulty|problem|duration|
+|Date|difficulty|problem|again?|
 |-|-|-|-|    
-|5/7|easy|two sums|min|
-||easy|roman to integer|min|    
+|5/7|easy|two sums|no|
+||easy|roman to integer|no|    
 |/||||    
 |/||||
 |/||||    
