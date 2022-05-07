@@ -248,7 +248,6 @@
 |표 편집 |Python| ★★★|
 
 ---
----
 
 ## KAKAO
 <details>
