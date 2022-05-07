@@ -6,13 +6,15 @@
 참고로 zip 쓰면 원소 중 길이가 가장 작은 녀석 길이 끝났을 때 멈춘다!  
 
 ```python
-n = len(words)
-res = ''
+class Solution:
+    def longestCommonPrefix(self, words: List[str]) -> str:
+        n = len(words)
+        res = ''
 
-for char_set in zip(*words):
-    temp = char_set[0]
-    if ''.join(char_set).replace(temp, ''): break
-    res += temp
-    
-return res
+        for char_set in zip(*words):
+            temp = char_set[0]
+            if ''.join(char_set).replace(temp, ''): break
+            res += temp
+
+        return res
 ```
