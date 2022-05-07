@@ -3,7 +3,7 @@
 - [LEVEL I (60 problems)](#level-i)
 - [LEVEL II (66 problems)](#level-ii)
 - [LEVEL III (32 problems)](#level-iii)
-- [KAKAO problems (48 problems)](#카카오-기출문제-풀이)
+- [KAKAO problems (48 problems)](#kakao)
 
 ---
 
