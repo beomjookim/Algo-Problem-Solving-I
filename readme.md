@@ -253,7 +253,6 @@
 <details>
     <summary>48 문제, 48 problems</summary>
 
-
 하루에 한 문제 이상씩 카카오 기출문제를 풀이하였습니다. 시간은 답안 없이 문제를 해결하는 데 걸린 시간입니다.
 
 |Date|Level|Title|Time Used|
@@ -306,3 +305,4 @@
 |/|lv 3|양과 늑대|
 |/|lv 3|파괴되지 않은 건물|
 |/|lv 3|사라지는 발판|
+</details>
