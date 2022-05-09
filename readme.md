@@ -313,26 +313,28 @@
 
 ## TOP interview questions
 <details>
-    <summary>2 문제, 2 problems</summary>
+    <summary>14 문제, 14 problems</summary>
+    
+    - i did not post some solutions too easy.
     
 |Date|difficulty|problem|again?|
 |-|-|-|-|    
 |5/7|easy|two sums|no|
 ||easy|roman to integer|no|    
-|/||||    
-|/||||
-|/||||    
-|/||||    
-|/||||
-|/||||   
-|/||||    
-|/||||
-|/||||    
-|/||||      
-|/||||
-|/||||   
-|/||||    
-|/||||
+|5/8|easy|longest common prefix|no|    
+||easy|valid parentheses|no|
+||easy|merge two sorted lists|no|    
+||easy|remove duplicates from sorted array|no|    
+||easy|implement strStr()|no|
+|5/9|easy|maximum subarray|no|   
+||easy|plus one|no|    
+||easy|sqrt(x)|no|
+||easy|climbing stairs|no|    
+||easy|merge sorted array||      
+||easy|binary tree inorder traversal||  
+||easy|symmetric tree||   
+|/|easy|||    
+|/|easy|||
 |/||||    
 |/||||    
 |/||||
