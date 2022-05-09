@@ -315,7 +315,7 @@
 <details>
     <summary>14 문제, 14 problems</summary>
     
-    - i did not post some solutions too easy.
+    - i did not post some solutions that are too easy.
     
 |Date|difficulty|problem|again?|
 |-|-|-|-|    
