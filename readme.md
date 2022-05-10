@@ -331,7 +331,7 @@
 ||easy|sqrt(x)|no|
 ||easy|climbing stairs|no|    
 |5/10|easy|merge sorted array|no|      
-||easy|binary tree inorder traversal||  
+||easy|binary tree inorder traversal|yes|  
 ||easy|symmetric tree||   
 ||easy|maximum depth of binary tree||    
 ||easy|convert sorted array to binary search tree||
