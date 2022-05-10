@@ -330,11 +330,11 @@
 ||easy|plus one|no|    
 ||easy|sqrt(x)|no|
 ||easy|climbing stairs|no|    
-||easy|merge sorted array||      
+|5/10|easy|merge sorted array|no|      
 ||easy|binary tree inorder traversal||  
 ||easy|symmetric tree||   
-|/|easy|||    
-|/|easy|||
+||easy|maximum depth of binary tree||    
+||easy|convert sorted array to binary search tree||
 |/||||    
 |/||||    
 |/||||
