@@ -332,11 +332,11 @@
 ||easy|climbing stairs|no|    
 |5/10|easy|merge sorted array|no|      
 ||easy|binary tree inorder traversal|yes|  
-||easy|symmetric tree||   
-||easy|maximum depth of binary tree||    
+|5/11|easy|symmetric tree|yes|   
+||easy|maximum depth of binary tree|no|    
 ||easy|convert sorted array to binary search tree||
-|/||||    
-|/||||    
+||easy|pascal's triangle||    
+||easy|best time to buy and sell stock||    
 |/||||
 |/||||    
 |/||||    
