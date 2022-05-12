@@ -315,7 +315,7 @@
 <details>
     <summary>14 문제, 14 problems</summary>
     
-    - i did not post some solutions that are too easy.
+    - i did not post solutions that are too easy.
     
 |Date|difficulty|problem|again?|
 |-|-|-|-|    
@@ -339,7 +339,7 @@
 ||easy|best time to buy and sell stock|no|    
 ||easy|valid palindrome|no|
 ||easy|single number|yes|    
-||easy|linked list cycle||    
+||easy|linked list cycle|no|    
 |/||||
 |/||||    
 |/||||      
