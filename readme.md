@@ -334,12 +334,12 @@
 ||easy|binary tree inorder traversal|yes|  
 |5/11|easy|symmetric tree|yes|   
 ||easy|maximum depth of binary tree|no|    
-||easy|convert sorted array to binary search tree|yes|
-||easy|pascal's triangle||    
-||easy|best time to buy and sell stock||    
-|/||||
-|/||||    
-|/||||    
+|5/12|easy|convert sorted array to binary search tree|yes|
+||easy|pascal's triangle|no|    
+||easy|best time to buy and sell stock|no|    
+||easy|valid palindrome|no|
+||easy|single number||    
+||easy|linked list cycle||    
 |/||||
 |/||||    
 |/||||      
