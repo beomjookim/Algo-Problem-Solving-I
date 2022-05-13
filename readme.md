@@ -341,7 +341,7 @@
 ||easy|single number|yes|    
 ||easy|linked list cycle|no|    
 |5/13|easy|min stack|yes|
-|/||||    
+||easy|intersection of two linked lists|yes|    
 |/||||      
  
 </details>
