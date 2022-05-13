@@ -340,7 +340,7 @@
 ||easy|valid palindrome|no|
 ||easy|single number|yes|    
 ||easy|linked list cycle|no|    
-|/||||
+|5/13|easy|min stack|yes|
 |/||||    
 |/||||      
  
