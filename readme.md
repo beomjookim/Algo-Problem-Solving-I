@@ -342,6 +342,25 @@
 ||easy|linked list cycle|no|    
 |5/13|easy|min stack|yes|
 ||easy|intersection of two linked lists|yes|    
-|/||||      
+|5/14|easy|majority element|yes|   
+||easy|excel sheet column number||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
+|/||||   
  
 </details>
