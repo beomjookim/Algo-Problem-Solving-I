@@ -351,9 +351,9 @@
 |5/16|easy|reverse bits|yes|   
 ||easy|number of 1 bits|yes|   
 ||easy|happy number|no|   
-|/||||   
-|/||||   
-|/||||   
+||easy|reverse linked list|no|   
+||easy|contains duplicate||   
+||easy|palindrome linked list||   
 |/||||   
 |/||||   
 |/||||   
