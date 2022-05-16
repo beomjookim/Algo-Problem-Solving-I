@@ -350,7 +350,7 @@
 ||weekly contest|count integers in intervals|yes|   
 |5/16|easy|reverse bits|yes|   
 ||easy|number of 1 bits|yes|   
-||easy|happy number||   
+||easy|happy number|no|   
 |/||||   
 |/||||   
 |/||||   
