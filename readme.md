@@ -349,7 +349,7 @@
 ||weekly contest|largest combination with bitwise and greater than zero|no|   
 ||weekly contest|count integers in intervals|yes|   
 |5/16|easy|reverse bits|yes|   
-||easy|number of 1 bits||   
+||easy|number of 1 bits|yes|   
 ||easy|happy number||   
 |/||||   
 |/||||   
