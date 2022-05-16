@@ -344,13 +344,13 @@
 ||easy|intersection of two linked lists|yes|    
 |5/14|easy|majority element|yes|   
 ||easy|excel sheet column number|yes|   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
+|5/15|weekly contest||no|   
+||weekly contest||no|   
+||weekly contest||no|   
+||weekly contest||yes|   
+|5/16|easy|reverse bits|yes|   
+||easy|number of 1 bits||   
+||easy|happy number||   
 |/||||   
 |/||||   
 |/||||   
