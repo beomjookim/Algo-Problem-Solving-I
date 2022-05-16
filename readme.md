@@ -344,10 +344,10 @@
 ||easy|intersection of two linked lists|yes|    
 |5/14|easy|majority element|yes|   
 ||easy|excel sheet column number|yes|   
-|5/15|weekly contest||no|   
-||weekly contest||no|   
-||weekly contest||no|   
-||weekly contest||yes|   
+|5/15|weekly contest|find reslutant array after removing anagrams|no|   
+||weekly contest|maximum consecutive floors without special floors|no|   
+||weekly contest|largest combination with bitwise and greater than zero|no|   
+||weekly contest|count integers in intervals|yes|   
 |5/16|easy|reverse bits|yes|   
 ||easy|number of 1 bits||   
 ||easy|happy number||   
