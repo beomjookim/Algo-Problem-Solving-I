@@ -352,8 +352,8 @@
 ||easy|number of 1 bits|yes|   
 ||easy|happy number|no|   
 ||easy|reverse linked list|no|   
-||easy|contains duplicate||   
-||easy|palindrome linked list||   
+||easy|contains duplicate|no|   
+||easy|palindrome linked list|no|   
 |/||||   
 |/||||   
 |/||||   
