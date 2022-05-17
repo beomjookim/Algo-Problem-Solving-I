@@ -354,12 +354,12 @@
 ||easy|reverse linked list|no|   
 ||easy|contains duplicate|no|   
 ||easy|palindrome linked list|no|   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
-|/||||   
+|5/17|easy|delete node in a linked list|no|   
+||easy|valid anagram|no|   
+||easy|missing number|no|   
+||easy|move zeroes|no|   
+||easy|power of three|no|   
+||easy|reverse string|no|   
 |/||||   
 |/||||   
  
