@@ -364,7 +364,7 @@
 ||easy|first unique character in a string|no|   
 ||easy|fizz buzz|no|   
 ||medium|add two numbers|no|  
-||medium|||  
+||medium|longest substring without repeating characters|no|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
