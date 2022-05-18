@@ -360,7 +360,8 @@
 ||easy|move zeroes|no|   
 ||easy|power of three|no|   
 ||easy|reverse string|no|   
-|/||||   
-|/||||   
+|5/18|easy|intersection of two arrays|no|   
+||easy|first unique character in a string|no|   
+||easy|fizz buzz|no|   
  
 </details>
