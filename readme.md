@@ -365,9 +365,9 @@
 ||easy|fizz buzz|no|   
 ||medium|add two numbers|no|  
 ||medium|longest substring without repeating characters|no|  
-||medium|||  
-||medium|||  
-||medium|||  
+|5/19|medium|longest palindromic substring|yes|  
+||medium|reverse integer||  
+||medium|string to integer||  
 ||medium|||  
 ||medium|||  
 ||medium|||  
