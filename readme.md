@@ -369,7 +369,7 @@
 ||medium|reverse integer|no|  
 ||medium|string to integer|no|  
 ||medium|container with most water|yes|  
-||medium|||  
+||medium|3sum|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
