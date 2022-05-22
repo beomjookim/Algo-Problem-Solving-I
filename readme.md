@@ -345,9 +345,9 @@
 |5/14|easy|majority element|yes|   
 ||easy|excel sheet column number|yes|   
 |5/15|weekly contest|find reslutant array after removing anagrams|no|   
-||weekly contest|maximum consecutive floors without special floors|no|   
-||weekly contest|largest combination with bitwise and greater than zero|no|   
-||weekly contest|count integers in intervals|yes|   
+||easy|maximum consecutive floors without special floors|no|   
+||medium|largest combination with bitwise and greater than zero|no|   
+||medium|count integers in intervals|yes|   
 |5/16|easy|reverse bits|yes|   
 ||easy|number of 1 bits|yes|   
 ||easy|happy number|no|   
@@ -370,8 +370,8 @@
 ||medium|string to integer|no|  
 ||medium|container with most water|yes|  
 |5/20|medium|3sum|yes|  
-||medium|||  
-||medium|||  
+|5/21|medium|percentage of letter in string|no|  
+||medium|maximum bags with full capacity inside|no|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
