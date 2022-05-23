@@ -370,9 +370,9 @@
 ||medium|string to integer|no|  
 ||medium|container with most water|yes|  
 |5/20|medium|3sum|yes|  
-|5/21|medium|percentage of letter in string|no|  
+|5/22|medium|percentage of letter in string|no|  
 ||medium|maximum bags with full capacity inside|no|  
-||medium|||  
+|5/23|medium|letters combinations of phone number|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
