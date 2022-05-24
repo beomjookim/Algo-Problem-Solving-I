@@ -373,7 +373,7 @@
 |5/22|medium|percentage of letter in string|no|  
 ||medium|maximum bags with full capacity inside|no|  
 |5/23|medium|letters combinations of phone number|yes|  
-||medium|||  
+|5/24|medium|remove nth node from end of list|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
