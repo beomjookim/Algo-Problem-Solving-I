@@ -334,7 +334,7 @@
 ||easy|binary tree inorder traversal|yes/no|  
 |5/11|easy|symmetric tree|yes/no|   
 ||easy|maximum depth of binary tree|no|    
-|5/12|easy|convert sorted array to binary search tree|yes|
+|5/12|easy|convert sorted array to binary search tree|yes/yes|
 ||easy|pascal's triangle|no|    
 ||easy|best time to buy and sell stock|no|    
 ||easy|valid palindrome|no|
