@@ -338,7 +338,7 @@
 ||easy|pascal's triangle|no|    
 ||easy|best time to buy and sell stock|no|    
 ||easy|valid palindrome|no|
-||easy|single number|yes|    
+||easy|single number|yes/yes|    
 ||easy|linked list cycle|no|    
 |5/13|easy|min stack|yes|
 ||easy|intersection of two linked lists|yes|    
