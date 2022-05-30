@@ -313,7 +313,7 @@
 
 ## TOP interview questions
 <details>
-    <summary>14 문제, 14 problems</summary>
+    <summary>55 문제, 55 problems</summary>
     
     - i did not post solutions that are too easy.
     
