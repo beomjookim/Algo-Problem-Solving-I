@@ -343,12 +343,12 @@
 |5/13|easy|min stack|yes/yes|
 ||easy|intersection of two linked lists|yes/yes|    
 |5/14|easy|majority element|yes/no|   
-||easy|excel sheet column number|yes|   
-|5/15|weekly contest|find reslutant array after removing anagrams|no|   
+||easy|excel sheet column number|yes/no|   
+|5/15|easy|find reslutant array after removing anagrams|no|   
 ||easy|maximum consecutive floors without special floors|no|   
 ||medium|largest combination with bitwise and greater than zero|no|   
 ||medium|count integers in intervals|yes|   
-|5/16|easy|reverse bits|yes|   
+|5/16|easy|reverse bits|yes/yes|   
 ||easy|number of 1 bits|yes|   
 ||easy|happy number|no|   
 ||easy|reverse linked list|no|   
