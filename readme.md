@@ -341,8 +341,8 @@
 ||easy|single number|yes/yes|    
 ||easy|linked list cycle|no|    
 |5/13|easy|min stack|yes/yes|
-||easy|intersection of two linked lists|yes|    
-|5/14|easy|majority element|yes|   
+||easy|intersection of two linked lists|yes/yes|    
+|5/14|easy|majority element|yes/no|   
 ||easy|excel sheet column number|yes|   
 |5/15|weekly contest|find reslutant array after removing anagrams|no|   
 ||easy|maximum consecutive floors without special floors|no|   
