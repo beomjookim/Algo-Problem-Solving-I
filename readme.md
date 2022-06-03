@@ -349,7 +349,7 @@
 ||medium|largest combination with bitwise and greater than zero|no|   
 ||medium|count integers in intervals|yes|   
 |5/16|easy|reverse bits|yes/yes|   
-||easy|number of 1 bits|yes|   
+||easy|number of 1 bits|yes/no|   
 ||easy|happy number|no|   
 ||easy|reverse linked list|no|   
 ||easy|contains duplicate|no|   
