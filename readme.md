@@ -365,7 +365,7 @@
 ||easy|fizz buzz|no|   
 ||medium|add two numbers|no|  
 ||medium|longest substring without repeating characters|no|  
-|5/19|medium|longest palindromic substring|yes|  
+|5/19|medium|longest palindromic substring|yes/no|  
 ||medium|reverse integer|no|  
 ||medium|string to integer|no|  
 ||medium|container with most water|yes|  
