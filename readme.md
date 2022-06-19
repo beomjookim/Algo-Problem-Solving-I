@@ -458,27 +458,27 @@
 ## Samsung academy
     
 <details>
-    <summary>55 문제, 55 problems</summary>
+    <summary> 문제,  problems</summary>
     - only problems should be gone over are listed.
     
-    |Date|difficulty|problem|
-    |-|-|-|-|
-    |6/19|D4|가능한 시험점수|
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
-    |/|||
+|Date|difficulty|problem|
+|-|-|-|-|
+|6/19|D4|가능한 시험점수|
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
 </details>
