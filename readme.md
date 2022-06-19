@@ -5,6 +5,7 @@
 - [LEVEL III (32 problems)](#level-iii)
 - [KAKAO problems (48 problems)](#kakao)
 - [LEETCODE Top Interview Questions](#top-interview-questions)
+- [SAMSUNG Academy](#samsung-academy)
 
 ---
 
@@ -451,4 +452,33 @@
 ||medium|||  
 ||medium|||  
 
+</details>
+
+    
+## Samsung academy
+    
+<details>
+    <summary>55 문제, 55 problems</summary>
+    - only problems should be gone over are listed.
+    
+    |Date|difficulty|problem|
+    |-|-|-|-|
+    |6/19|D4|가능한 시험점수|
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
+    |/|||
 </details>
