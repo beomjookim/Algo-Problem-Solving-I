@@ -462,7 +462,7 @@
     - only problems should be gone over are listed.
     
 |Date|difficulty|problem|
-|-|-|-|-|
+|-|-|-|
 |6/19|D4|가능한 시험점수|
 |/|||
 |/|||
