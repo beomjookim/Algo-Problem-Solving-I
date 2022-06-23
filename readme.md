@@ -458,7 +458,7 @@
 ## Samsung academy
     
 <details>
-    <summary> 문제,  problems</summary>
+    <summary> 24 문제, 24 problems</summary>
     - only problems should be gone over are listed.
     
 |Date|difficulty|problem|
