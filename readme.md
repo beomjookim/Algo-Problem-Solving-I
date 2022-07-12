@@ -376,7 +376,7 @@
 |5/23|medium|letters combinations of phone number|yes|  
 |5/24|medium|remove nth node from end of list|yes|  
 |7/11|medium|validate binary search tree|yes|  
-||medium|||  
+|7/12|medium|decode ways|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
