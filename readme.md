@@ -366,10 +366,10 @@
 ||easy|fizz buzz|no|   
 ||medium|add two numbers|no|  
 ||medium|longest substring without repeating characters|no|  
-|5/19|medium|longest palindromic substring|yes/no|  
+|5/19|medium|longest palindromic substring|yes|  
 ||medium|reverse integer|no|  
 ||medium|string to integer|no|  
-||medium|container with most water|yes/no|  
+||medium|container with most water|yes|  
 |5/20|medium|3sum|yes|  
 |5/22|medium|percentage of letter in string|no|  
 ||medium|maximum bags with full capacity inside|no|  
@@ -377,8 +377,8 @@
 |5/24|medium|remove nth node from end of list|yes|  
 |7/11|medium|validate binary search tree|yes|  
 |7/12|medium|decode ways|yes|  
-||medium|||  
-||medium|||  
+|7/14|medium|best time to buy and sell stock II|no|  
+|7/14|medium|course schedule|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
