@@ -378,8 +378,8 @@
 |7/11|medium|validate binary search tree|yes|  
 |7/12|medium|decode ways|yes|  
 |7/14|medium|best time to buy and sell stock II|no|  
-|7/14|medium|course schedule|yes|  
-||medium|||  
+|7/15|medium|course schedule|yes|  
+|7/15|medium|construct binary tree from preorder and inorder traversal|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
