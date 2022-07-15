@@ -6,24 +6,24 @@ dfs가 재귀 형태가 유용하다 보니 꼬리물기 식으로 계속 이어
 
 
 ```python
-def canFinish(self, numCourses, prerequisites):
-    graph = [[] for _ in xrange(numCourses)]
-    visit = [0 for _ in xrange(numCourses)]
-    for x, y in prerequisites:
-        graph[x].append(y)
-    def dfs(i):
-        if visit[i] == -1:
-            return False
-        if visit[i] == 1:
-            return True
-        visit[i] = -1
-        for j in graph[i]:
-            if not dfs(j):
-                return False
-        visit[i] = 1
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        dic = {i:set() for i in range(numCourses)}
+        for b, a in prerequisites: dic[b].add(a)
+        
+        for j in range(numCourses): 
+            visitSet = set()
+            
+            def dfs(crs):
+                if crs in visitSet: return False            
+                visitSet.add(crs)
+                for pre in dic[crs]:
+                    if not dfs(pre): return False
+                dic[crs] = set()
+                visitSet.remove(crs)
+            
+                return True
+            
+            if not dfs(j): return False
         return True
-    for i in xrange(numCourses):
-        if not dfs(i):
-            return False
-    return True
 ```
