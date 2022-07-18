@@ -381,7 +381,7 @@
 |7/15|medium|course schedule|yes|  
 |7/15|medium|construct binary tree from preorder and inorder traversal|yes|  
 |7/18|medium|surrounded regions|no|  
-||medium|||  
+|7/18|medium|number of islands|no|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
