@@ -382,8 +382,8 @@
 |7/15|medium|construct binary tree from preorder and inorder traversal|yes|  
 |7/18|medium|surrounded regions|no|  
 |7/18|medium|number of islands|no|  
-||medium|||  
-||medium|||  
+|7/19|medium|binary tree level order traversal|no|  
+|7/19|medium|palindrome partitioning|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
