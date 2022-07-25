@@ -385,7 +385,7 @@
 |7/19|medium|binary tree level order traversal|no|  
 |7/19|medium|palindrome partitioning|yes|  
 |7/21|medium|course schedule II|yes|  
-||medium|||  
+|7/25|medium|perfect squares|yes|  
 ||medium|||  
 ||medium|||  
 ||medium|||  
