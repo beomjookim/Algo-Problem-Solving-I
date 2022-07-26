@@ -8,27 +8,26 @@
 
 
 ```python
-def numSquares(self, n):
-    if n < 2:
-        return n
-    lst = []
-    i = 1
-    while i * i <= n:
-        lst.append( i * i )
-        i += 1
-    cnt = 0
-    toCheck = {n}
-    while toCheck:
-        cnt += 1
-        temp = set()
-        for x in toCheck:
-            for y in lst:
-                if x == y:
-                    return cnt
-                if x < y:
-                    break
-                temp.add(x-y)
-        toCheck = temp
+from math import ceil
 
-    return cnt
+class Solution:
+    def numSquares(self, n: int) -> int:
+        cand = set({n})
+        squares = [i**2 for i in range(1, ceil((n+1)**.5))]
+        res = 0
+        
+        while True:
+            res += 1
+            temp = set()
+                        
+            for val in cand:
+                if val in squares: return res
+                
+                for sq in squares:
+                    if val < sq: break
+                    temp.add(val-sq)
+                        
+            cand = temp
 ```
+
+받은 힌트를 토대로 내 방식대로 다시 풀어보았다. 최단거리 문제라는 걸 알고 나면 훨씬 수월해짐.
