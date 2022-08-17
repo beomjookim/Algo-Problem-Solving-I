@@ -341,7 +341,7 @@
 ||easy|valid palindrome|no|
 ||easy|single number|yes/yes|    
 ||easy|linked list cycle|no|    
-|5/13|easy|min stack|yes/yes|
+|5/13|medium|min stack|yes/yes|
 ||easy|intersection of two linked lists|yes/yes|    
 |5/14|easy|majority element|yes/no|   
 ||easy|excel sheet column number|yes/no|   
