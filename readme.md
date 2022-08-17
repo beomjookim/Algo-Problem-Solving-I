@@ -386,25 +386,41 @@
 |7/19|medium|palindrome partitioning|yes|  
 |7/21|medium|course schedule II|yes|  
 |7/25|medium|perfect squares|yes/no|  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
+|8/17|redone|convert sorted array to binary search tree||  
+||redone|single number||  
+||redone|min stack||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
+||redone|||  
+||redone|||  
+||redone|||  
+||redone||| 
 ||medium|||  
 ||medium|||  
 ||medium|||  
