@@ -387,8 +387,8 @@
 |7/21|medium|course schedule II|yes|  
 |7/25|medium|perfect squares|yes/no|  
 |8/17|redone|convert sorted array to binary search tree|no|  
-||redone|single number||  
-||redone|min stack||  
+||redone|single number|no|  
+||redone|min stack|no|  
 ||redone||| 
 ||redone|||  
 ||redone|||  
