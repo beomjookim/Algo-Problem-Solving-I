@@ -2,31 +2,26 @@
 
 간만에 medium 다웠던 문제.  
 일반적인 n^3을 시전하니 불통이 떴다. dictionary나 set으로 그 미만으로 줄여보려다가 포기했다.  
-그런데 n^3을 시전해도 예외로 skip하는 부분을 넣으면 괜찮더라. 아래의 풀이처럼.  
+sorting을 해주고 나면, i를 픽한 뒤에는 굳이 n * 2 를 추가 안 해줘도 됐다. two pointer 시전해버리면 그만...  
+좋은 풀이.
 
 ```python
 class Solution:
     def threeSum(self, nums):
-        res = []
+        res = set()
         nums.sort()
-        for i in xrange(len(nums)-2):
-            if i > 0 and nums[i] == nums[i-1]:
-                continue
+        
+        for i in range(len(nums)-2):
+            if nums[i] > 0: break
             l, r = i+1, len(nums)-1
             while l < r:
                 s = nums[i] + nums[l] + nums[r]
-                if s < 0:
-                    l +=1 
-                elif s > 0:
-                    r -= 1
+                if s < 0: l +=1 
+                elif s > 0: r -= 1
                 else:
-                    res.append((nums[i], nums[l], nums[r]))
-                    while l < r and nums[l] == nums[l+1]:
-                        l += 1
-                    while l < r and nums[r] == nums[r-1]:
-                        r -= 1
+                    res.add((nums[i], nums[l], nums[r]))
                     l += 1; r -= 1
-        return res
+        return list(res)
 ```
 
 이것보다 더 좋은 풀이가 있다. 내가 생각했던 것처럼, n, z, p로 나누어 푸는 것이다... 이후에 iteration을 O(1)에 진행하기 위해 set을 써준 것.  
