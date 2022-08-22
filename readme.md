@@ -391,9 +391,9 @@
 ||redone|min stack|no|  
 ||redone|intersection of two linked lists|no| 
 ||redone|reverse bits|no|  
-|8/19|redone|longest palindromic substring||  
+|8/22|redone|longest palindromic substring||  
 ||redone|container with most water||  
-||redone||| 
+||redone|3sum||  
 ||redone|||  
 ||redone|||  
 ||redone|||  
