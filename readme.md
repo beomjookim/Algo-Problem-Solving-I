@@ -314,7 +314,7 @@
 
 ## TOP interview questions
 <details>
-    <summary>55 문제, 55 problems</summary>
+    <summary>76 문제, 76 problems</summary>
     
     - i did not post solutions that are too easy.
     
@@ -394,14 +394,14 @@
 |8/22|redone|longest palindromic substring|no|  
 ||redone|container with most water|yes|  
 ||redone|3sum|yes|  
-||redone|||  
-||redone|||  
-||redone|||  
-||redone||| 
-||redone|||  
-||redone|||  
-||redone|||  
-||redone||| 
+|8/23|redone|letters combinations of phone number||  
+||redone|remove nth node from end of list||  
+|8/25|redone|validate binary search tree||  
+||redone|decode ways|| 
+||redone|course schedule||  
+||redone|construct binary tree from preorder and inorder traversal||  
+||redone|palindrome partitioning||  
+||redone|course schedule II|| 
 ||redone|||  
 ||redone|||  
 ||redone|||  
