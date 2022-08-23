@@ -394,7 +394,7 @@
 |8/22|redone|longest palindromic substring|no|  
 ||redone|container with most water|yes|  
 ||redone|3sum|yes|  
-|8/23|redone|letters combinations of phone number||  
+|8/23|redone|letters combinations of phone number|no|  
 ||redone|remove nth node from end of list||  
 |8/25|redone|validate binary search tree||  
 ||redone|decode ways|| 
