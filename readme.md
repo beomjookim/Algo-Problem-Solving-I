@@ -396,7 +396,7 @@
 ||redone|3sum|yes|  
 |8/23|redone|letters combinations of phone number|no|  
 ||redone|remove nth node from end of list|yes|  
-|8/25|redone|validate binary search tree||  
+|8/25|redone|validate binary search tree|no|  
 ||redone|decode ways|| 
 ||redone|course schedule||  
 ||redone|construct binary tree from preorder and inorder traversal||  
