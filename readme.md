@@ -401,7 +401,7 @@
 ||redone|course schedule||  
 ||redone|construct binary tree from preorder and inorder traversal||  
 ||redone|palindrome partitioning||  
-||redone|course schedule II|| 
+||redone|course schedule II|no| 
 ||redone|||  
 ||redone|||  
 ||redone|||  
