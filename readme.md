@@ -397,7 +397,7 @@
 |8/23|redone|letters combinations of phone number|no|  
 ||redone|remove nth node from end of list|yes|  
 |8/24|redone|validate binary search tree|no|  
-|8/25|redone|decode ways|| 
+|8/25|redone|decode ways|yes| 
 ||redone|course schedule||  
 ||redone|construct binary tree from preorder and inorder traversal||  
 ||redone|palindrome partitioning||  
