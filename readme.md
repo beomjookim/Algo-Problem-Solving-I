@@ -400,7 +400,7 @@
 |8/25|redone|decode ways|yes| 
 ||redone|course schedule II|no| 
 |8/29|redone|course schedule||  
-||redone|construct binary tree from preorder and inorder traversal||  
+||redone|construct binary tree from preorder and inorder traversal|yes|  
 ||redone|palindrome partitioning|yes|  
 ||redone|||  
 ||redone|||  
