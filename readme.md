@@ -399,12 +399,9 @@
 |8/24|redone|validate binary search tree|no|  
 |8/25|redone|decode ways|yes| 
 ||redone|course schedule II|no| 
-|8/29|redone|course schedule||  
+|8/29|redone|course schedule|yes|  
 ||redone|construct binary tree from preorder and inorder traversal|yes|  
 ||redone|palindrome partitioning|yes|  
-||redone|||  
-||redone|||  
-||redone|||  
 ||redone||| 
 ||redone|||  
 ||redone|||  
@@ -413,6 +410,20 @@
 ||redone|||  
 ||redone|||  
 ||redone|||  
+||redone|||  
+||redone|||  
+||redone|||  
+||reredone|container with most water||  
+||reredone|3sum||  
+||reredone|remove nth node from end of list||  
+||reredone|decode ways|| 
+||reredone|course schedule||  
+||reredone|construct binary tree from preorder and inorder traversal||  
+||reredone|palindrome partitioning||  
+||redone||| 
+||redone|||  
+||redone|||  
+||redone|||  
 ||redone||| 
 ||redone|||  
 ||redone|||  
@@ -420,52 +431,7 @@
 ||redone|||  
 ||redone|||  
 ||redone|||  
-||redone||| 
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
-||medium|||  
+
 
 </details>
 
