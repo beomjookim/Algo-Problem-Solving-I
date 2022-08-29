@@ -398,10 +398,10 @@
 ||redone|remove nth node from end of list|yes|  
 |8/24|redone|validate binary search tree|no|  
 |8/25|redone|decode ways|yes| 
-||redone|course schedule||  
-||redone|construct binary tree from preorder and inorder traversal||  
-||redone|palindrome partitioning||  
 ||redone|course schedule II|no| 
+|8/29|redone|course schedule||  
+||redone|construct binary tree from preorder and inorder traversal||  
+||redone|palindrome partitioning|yes|  
 ||redone|||  
 ||redone|||  
 ||redone|||  
