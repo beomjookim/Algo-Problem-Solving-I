@@ -6,6 +6,7 @@
 - [KAKAO problems (48 problems)](#kakao)
 - [LEETCODE Top Interview Questions](#top-interview-questions)
 - [SAMSUNG Academy](#samsung-academy)
+- [LEETCODE Amazon problems](#amazon)
 
 ---
 
@@ -458,6 +459,20 @@
 |/|||
 |/|||
 |/|||
+|/|||
+|/|||
+|/|||
+|/|||
+</details>
+
+
+## Amazon
+
+<details>
+    <summary></summary>
+|Date|Problem|redo?|
+|-|-|-|
+|9/21|two sum||
 |/|||
 |/|||
 |/|||
