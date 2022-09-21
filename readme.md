@@ -472,7 +472,7 @@
     <summary></summary>
 |Date|Problem|redo?|
 |-|-|-|
-|9/21|two sum||
+|9/21|two sum|yes|
 |/|||
 |/|||
 |/|||
