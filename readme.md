@@ -473,8 +473,27 @@
 |Date|Problem|redo?|
 |-|-|-|
 |9/21|two sum|yes|
+||design parking system|no|
+||maximum units on a truck|no|
+||integer to roman|no|
+|9/22|group anagrams||
+||||
 |/|||
 |/|||
 |/|||
 |/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+|/|||
+
 </details>
