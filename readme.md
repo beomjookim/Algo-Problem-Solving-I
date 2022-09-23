@@ -470,6 +470,7 @@
 
 <details>
     <summary></summary>
+    
 |Date|Problem|redo?|
 |-|-|-|
 |9/21|two sum|yes|
@@ -495,5 +496,4 @@
 |/|||
 |/|||
 |/|||
-
 </details>
