@@ -477,8 +477,8 @@
 ||design parking system|no|
 ||maximum units on a truck|no|
 ||integer to roman|no|
-|9/22|group anagrams||
-||||
+|9/22|group anagrams|no|
+||copy list with random pointer|no|
 |/|||
 |/|||
 |/|||
