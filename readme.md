@@ -6,7 +6,7 @@
 - [KAKAO problems (48 problems)](#kakao)
 - [LEETCODE Top Interview Questions](#top-interview-questions)
 - [SAMSUNG Academy](#samsung-academy)
-- [LEETCODE premium problems +](#amazon plus alpha)
+- [LEETCODE premium problems +](#amazon-plus-alpha)
 
 ---
 
