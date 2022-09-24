@@ -480,7 +480,7 @@
 |9/22|group anagrams|no|
 ||copy list with random pointer|no|
 |9/23|number of islands|no|
-||LRU Cache||
+|9/24|partition equal subset sum|yes|
 |/|||
 |/|||
 |/|||
